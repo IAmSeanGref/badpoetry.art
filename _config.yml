@@ -1,0 +1,6 @@
+remote_theme: pages-themes/time-machine@v0.2.0
+plugins:
+- jekyll-remote-theme
+title: Bad Poetry
+description: I write bad poetry. You can read it. by Sean Gref
+show_downloads: false
