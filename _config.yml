@@ -4,3 +4,5 @@ plugins:
 title: Bad Poetry
 description: I write bad poetry. You can read it. by Sean Gref
 show_downloads: false
+github:
+  is_project_page: false
